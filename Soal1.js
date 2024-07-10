@@ -13,7 +13,7 @@ function calculateSquareRoot(x) {
   return Math.sqrt(x);
 }
 
-let userInput = 21; // Gantilah nilai ini untuk menguji program
+let userInput = 100; // Gantilah nilai ini untuk menguji program
 
 let result = calculateSquareRoot(userInput);
 console.log(result); // Output
